@@ -1,10 +1,10 @@
 # Padre Gino's Pizza - Full-Stack Ordering App
 
-![React](https://img-shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![TanStack](https://img-shields.io/badge/TanStack-EF4444?logo=tanstack&logoColor=white)
-![Node.js](https://img-shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![Fastify](https://img-shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
-![SQLite](https://img-shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TanStack](https://img.shields.io/badge/TanStack-EF4444?logo=tanstack&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?logo=fastify&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
 
 This repository contains the source code for **Pizza of the Day**, a web application for ordering pizza online. It features a complete frontend built with React and a robust backend API powered by Node.js and Fastify.
 
@@ -16,14 +16,15 @@ A quick look at the user interface of the application.
 
 | Home Page                                     | Create Order Page                               |
 | ------------------------------------------------------- | --------------------------------------------------------- |
-| ![The home page for Padre Gino's Pizza](./assets/home-page.png) | ![The order creation page with items in the cart](./assets/create-order-with-add.png) |
+| ![The home page for Padre Gino's Pizza](./assets/home-page.png) | ![The order creation page with items in the cart](./assets/create-order-page.png) |
 
 | Past Orders                                   | Contact Us                                  |
 | ------------------------------------------------------- | ----------------------------------------------------- |
 | ![A paginated list of past orders](./assets/past-orders-page.png) | ![The contact form for user inquiries](./assets/contact-page.png) |
 
+| Past Orders Pagination                        | Create Order Page, Order Added                   |
 | ------------------------------------------------------- | ----------------------------------------------------- |
-| ![A paginated list of past orders](./assets/past-orders-pagination.png) | ![The contact form for user inquiries](./assets/create-order-page.png) |
+| ![A paginated list of past orders](./assets/past-orders-pagination.png) | ![The order creation page](./assets/create-order-with-add.png) | 
 
 ---
 
